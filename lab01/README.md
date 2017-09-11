@@ -34,6 +34,7 @@ g++ -Wall -Werror -pedantic --std=c++11 main.cpp other_file.cpp -o executable_na
 NOTE: You can only have one main function while running
 
 ## Linking/Makefiles
+- What is it?
 - Advantage?
 - Simple Makefile and Linking example
 
@@ -46,3 +47,5 @@ NOTE: You can only have one main function while running
 
 ## Worksheet
 [Worksheet](https://docs.google.com/document/d/1lIbbNZeXwwawdPkFMIkRnuewuOoY9PJjhJNVufa9OLU/edit)
+
+## Closing Time
