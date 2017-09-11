@@ -1,7 +1,7 @@
 # Week 1 Agenda
 ![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/fetch0.jpg) 
 ## Who am I?
-- Your IA for 280
+- Your IA for 280, 3 time teaching
 - Senior CSE
 - Robotics Research/Internship
 - Sports, games, running, yoga, longboarding, old RA etc.
@@ -26,8 +26,11 @@
 
 ## Compiling in terminal (MacOSX/Linux)
 1. Open up terminal (ctrl+T shortcut in Linux)
+2. Run dis, changine file names and executable as needed
 ~~~
 g++ -Wall -Werror -pedantic --std=c++11 main.cpp other_file.cpp -o executable_name_potato
 ./executable_name_potato
 ~~~
+NOTE: You can only have one main function while running
+
 ## Linking/Makefiles
