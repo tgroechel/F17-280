@@ -11,10 +11,10 @@
 - "Shopping" lab sections
 - Nametags, yes, I know, you are in college, I want to know your name
 - Nicknames
-	-Tom
-	-Trains
-	-Fox
-	-~~Mom~~
+	- Tom
+	- Trains
+	- Fox
+	- ~~Mom~~
 - Helping outside of class
 - Piazza
 
