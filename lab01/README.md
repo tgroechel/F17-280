@@ -7,7 +7,7 @@
 - Sports, games, running, yoga, longboarding, old RA etc.
 
 ## General
-- [1]http://eecs280.org/
+- http://eecs280.org
 - "Shopping" lab sections
 - Nametags, yes, I know, you are in college, I want to know your name
 - Nicknames
