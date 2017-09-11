@@ -20,9 +20,9 @@
 
 ## What is CAEN?
 - CAEN account
-- Many ways of accomplishing 280 setups: https://piazza.com/class/j6xqzm6faq53n7?cid=73
-- SFTP and ssh: https://piazza.com/class/j6xqzm6faq53n7?cid=72
-- Use Linux, can use CAEN computers and boot into RedHat by restarting ocmputer
+- Many ways of accomplishing [280 laptop setups](https://piazza.com/class/j6xqzm6faq53n7?cid=73)
+- [SFTP and ssh](https://piazza.com/class/j6xqzm6faq53n7?cid=72)
+- Use Linux, can use CAEN computers and boot into RedHat by restarting computer
 
 ## Compiling in terminal (MacOSX/Linux)
 1. Open up terminal (ctrl+T shortcut in Linux)
@@ -34,3 +34,7 @@ g++ -Wall -Werror -pedantic --std=c++11 main.cpp other_file.cpp -o executable_na
 NOTE: You can only have one main function while running
 
 ## Linking/Makefiles
+- Recommend Computing for Computer Scientists class (EECS 398 I believe)
+
+## Worksheet
+[Worksheet](https://docs.google.com/document/d/1lIbbNZeXwwawdPkFMIkRnuewuOoY9PJjhJNVufa9OLU/edit)
