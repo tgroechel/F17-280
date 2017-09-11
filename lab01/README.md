@@ -1,7 +1,7 @@
 # Week 1 Agenda
 ![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/fetch0.jpg) 
 ## Who am I?
-- Your IA for 280, 3 time teaching
+- Your IA for 280, third semester
 - Senior CSE
 - Robotics Research/Internship
 - Sports, games, running, yoga, longboarding, old RA etc.
