@@ -34,6 +34,10 @@ g++ -Wall -Werror -pedantic --std=c++11 main.cpp other_file.cpp -o executable_na
 NOTE: You can only have one main function while running
 
 ## Linking/Makefiles
+- Advantage?
+
+
+## Tips for this class
 - Recommend Computing for Computer Scientists class (EECS 398 I believe)
 
 ## Worksheet
