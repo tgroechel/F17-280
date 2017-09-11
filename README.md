@@ -12,8 +12,10 @@ cd ~/path/to/the/place/you/want/it #eg. cd ~/Desktop
 git clone https://github.com/tgroechel/F17-280.git
 ~~~
 ### Windows
-I don't use any Windows machines for git so either Google it or just download the zip (would reccomend git though)
+
 [One tutorial I found](http://guides.beanstalkapp.com/version-control/git-on-windows.html)
+
+I apologize as I don't use any Windows machines for git. Thus I am not super experienced with it. The above linked tutorial should help as well as Googling. As a last resort, downloading the zip could do or just browsing through github.
 
 ## How to update
 ~~~
