@@ -15,12 +15,12 @@
 	- Trains
 	- Fox
 	- ~~Mom~~
-- Helping outside of class
+- Helping outside of class/emailing me
 - Piazza
 
 ## What is CAEN?
 - Check that you have a CAEN account
 - Use Linux (it is RedHat on the school computers, just physcially restart them and boot into RedHat)
-- Many ways of accomplishing this
+- Many ways of accomplishing this: https://piazza.com/class/j6xqzm6faq53n7?cid=73
 ## Compiling in terminal
 ## Linking/Makefiles
