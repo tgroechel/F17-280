@@ -13,6 +13,7 @@ git clone https://github.com/tgroechel/F17-280.git
 ~~~
 ### Windows
 I don't use any Windows machines for git so either Google it or just download the zip (would reccomend git though)
+[One tutorial I found](http://guides.beanstalkapp.com/version-control/git-on-windows.html)
 
 ## How to update
 ~~~
