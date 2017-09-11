@@ -35,10 +35,14 @@ NOTE: You can only have one main function while running
 
 ## Linking/Makefiles
 - Advantage?
-
+- Simple Makefile and Linking example
 
 ## Tips for this class
-- Recommend Computing for Computer Scientists class (EECS 398 I believe)
+- By far most limiting factor in this class?
+- Partner or nawe?
+- Cheating?
+- OH?
+- Recommend Computing for Computer Scientists class (EECS 398 I believe) if you want to just be more comfortable around a computer/terminal/linux etc.
 
 ## Worksheet
 [Worksheet](https://docs.google.com/document/d/1lIbbNZeXwwawdPkFMIkRnuewuOoY9PJjhJNVufa9OLU/edit)
