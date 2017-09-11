@@ -19,8 +19,15 @@
 - Piazza
 
 ## What is CAEN?
-- Check that you have a CAEN account
-- Use Linux (it is RedHat on the school computers, just physcially restart them and boot into RedHat)
-- Many ways of accomplishing this: https://piazza.com/class/j6xqzm6faq53n7?cid=73
-## Compiling in terminal
+- CAEN account
+- Many ways of accomplishing 280 setups: https://piazza.com/class/j6xqzm6faq53n7?cid=73
+- SFTP and ssh: https://piazza.com/class/j6xqzm6faq53n7?cid=72
+- Use Linux
+
+## Compiling in terminal (MacOSX/Linux)
+1. Open up terminal (ctrl+T shortcut in Linux)
+~~~
+g++ -Wall -Werror -pedantic --std=c++11 main.cpp -o executable_name_potato
+./executable_name_potato
+~~~
 ## Linking/Makefiles
