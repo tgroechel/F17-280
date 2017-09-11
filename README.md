@@ -1,8 +1,6 @@
 # EECS 280 F17 Lab -Tom Trains
 ## What is this?
-![alt text][logo]
-
-[logo]: https://github.com/tgroechel/F17-280/other/pictures/crabster.jpg "Logo Title Text 2"
+![alt text](https://github.com/tgroechel/F17-280/other/pictures/crabster.jpg) "Logo Title Text 2"
 
 ## How to download
 ### Linux/Mac Command Line
