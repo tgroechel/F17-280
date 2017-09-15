@@ -18,15 +18,16 @@
 - Helping outside of class/emailing me
 - Piazza
 
-## What is CAEN?
+## Developing, CAEN, and You
 - CAEN account
 - Many ways of accomplishing [280 laptop setups](https://piazza.com/class/j6xqzm6faq53n7?cid=73)
 - [SFTP and ssh](https://piazza.com/class/j6xqzm6faq53n7?cid=72)
 - Use Linux, can use CAEN computers and boot into RedHat by restarting computer
+- Learn git
 
 ## Compiling in terminal (MacOSX/Linux)
 1. Open up terminal (ctrl+T shortcut in Linux)
-2. Run dis, changine file names and executable as needed
+2. Run dis, changing file names and executable as needed
 ~~~
 g++ -Wall -Werror -pedantic --std=c++11 main.cpp other_file.cpp -o executable_name_potato
 ./executable_name_potato
@@ -50,5 +51,13 @@ Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
 
 ## Worksheet
 [Worksheet](https://docs.google.com/document/d/1lIbbNZeXwwawdPkFMIkRnuewuOoY9PJjhJNVufa9OLU/edit)
+
+## Project 1
+
+## Extra if ya'll want
+- Vectors
+- Pass by reference
+- git
+- gdb?
 
 ## Closing Time
