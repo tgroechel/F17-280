@@ -33,10 +33,13 @@ g++ -Wall -Werror -pedantic --std=c++11 main.cpp other_file.cpp -o executable_na
 ~~~
 NOTE: You can only have one main function while running
 
+Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
+
 ## Linking/Makefiles
 - What is it?
 - Advantage?
 - Simple Makefile and Linking example
+- Makefile tutorial [Here](https://www.youtube.com/watch?v=uBe_PvY7QAw)
 
 ## Tips for this class
 - By far most limiting factor in this class?
