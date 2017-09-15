@@ -8,7 +8,6 @@
 
 ## General
 - http://eecs280.org
-- "Shopping" lab sections
 - Nametags, yes, I know, you are in college, I want to know your name
 - Nicknames
 	- Tom
@@ -17,6 +16,8 @@
 	- ~~Mom~~
 - Helping outside of class/emailing me
 - Piazza
+- Why or why not to come to lab
+- "Shopping" lab sections
 
 ## Developing, CAEN, and You
 - CAEN account
@@ -53,6 +54,8 @@ Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
 [Worksheet](https://docs.google.com/document/d/1lIbbNZeXwwawdPkFMIkRnuewuOoY9PJjhJNVufa9OLU/edit)
 
 ## Project 1
+- Setup is tricky, come to OH if you are struggling
+- Tests and why
 
 ## Extra if ya'll want
 - Vectors
