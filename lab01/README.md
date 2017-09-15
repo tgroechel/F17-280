@@ -56,6 +56,7 @@ Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
 ## Project 1
 - Setup is tricky, come to OH if you are struggling
 - Tests and why
+- LOOK AT THE REQUIRES CLAUSE FOR TESTING
 
 ## Extra if ya'll want
 - Vectors
