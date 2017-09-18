@@ -3,8 +3,8 @@
 ## Pointers
 - What even is memory?
 - &
-- *
-- +
-- -
+- \*
+- \+
+- \-
 
 ## Traversing
