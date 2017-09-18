@@ -1,6 +1,5 @@
 # Week 2 Agenda
 ![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/pointers.png)
-We will be programming more today.
 
 ## Pointers
 - What even is memory?
