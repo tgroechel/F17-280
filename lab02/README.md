@@ -7,7 +7,7 @@ We will be programming more today.
 - &, \*
 - \-,\+
 - Why is this important???
-- Please never just randomly use *&*&*&*&*&*&*&*&*&*&*&*&*&*&
+- Please never just randomly use \*&\*&\*&\*&\*&\*&\*&\*&\*&\*&\*&\*&\*&\*&
 
 ## "Traversing by Pointer"
 - What even is an array?
@@ -20,5 +20,16 @@ We will be programming more today.
 
 ## Unit Testing
 - Merp
+
+## Extra
+- Very basic Makefile
+- Basic gdb
+
+## Project 2 tips
+- Start early!
+- What even is it?
+- Please to all goodness look at your index variables
+- This means double check what height vs width are
+- 2-d array as 1-d array
 
 ## Closing Time
