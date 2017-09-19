@@ -23,9 +23,9 @@
 #include "unit_test_framework.h"
 TEST(whatever_test_name_is){
 	bool potato = true;
-	ASSSERT_EQUAL(potato, true);
+	ASSSERT_EQUAL(potato, true); // Must use one of the defined assert macros
 }
-TEST_MAIN();
+TEST_MAIN(); // Macro that replaces your main, just put it in here
 ~~~
 - This is not how testing works everywhere but is an example of how a company could
 
