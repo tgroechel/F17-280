@@ -18,7 +18,16 @@
 [Worksheet](https://docs.google.com/document/d/1NS_pp_CGmifYoowkKbXhIr0fVnWygFYTzA2L-tIgBfU/edit)
 
 ## Unit Testing
-- Merp
+- 280's Framework
+~~~
+#include "unit_test_framework.h"
+TEST(whatever_test_name_is){
+	bool potato = true;
+	ASSSERT_EQUAL(potato, true);
+}
+TEST_MAIN();
+~~~
+- This is not how testing works everywhere but is an example of how a company could
 
 ## Extra
 - Very basic Makefile
