@@ -30,8 +30,10 @@ TEST(whatever_test_name_is){
 TEST_MAIN(); // Macro that replaces your main, just put it in here
 ~~~
 - This is not how testing works everywhere but is an example of how a company could
+- DO NOT REPLACE ASSERTS IN IMPLEMENTATION FILES
 
 ## Extra
+- [Lab Survey](https://docs.google.com/forms/d/1Wku4LmK3ACVGLzZ0BGNL_q5RQmzxA1D1wGhGH0XKIKo/edit)
 - Very basic Makefile
 - Basic gdb
 
