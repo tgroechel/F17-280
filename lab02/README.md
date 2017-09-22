@@ -24,7 +24,7 @@
 
 TEST(whatever_test_name_is){
 	bool potato = true;
-	ASSSERT_EQUAL(potato, true); // Must use one of the defined assert macros
+	ASSERT_EQUAL(potato, true); // Must use one of the defined assert macros
 }
 
 TEST_MAIN(); // Macro that replaces your main, just put it in here
