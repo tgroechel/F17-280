@@ -42,5 +42,6 @@ TEST_MAIN(); // Macro that replaces your main, just put it in here
 - This means double check what height vs width are
 - Initialize all the stuff, you will know what this means
 - 2-d array stored as 1-d array
+- Due Oct. 6th
 
 ## Closing Time
