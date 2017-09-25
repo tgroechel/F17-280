@@ -3,7 +3,7 @@
 
 ## C-Strings vs C++ string
 
-## IO
+## IO, argv, and arrrgc
 
 
 ## Worksheet
