@@ -5,9 +5,10 @@
 
 ## IO, argv, and arrrgc
 
-
 ## Worksheet
-[Worksheet]()
+[Worksheet](https://docs.google.com/document/d/1Un3TljjRZQrG_389X3XDqxY3zRFUPcp1ZDgJuCRTCb0/edit#heading=h.nr154e7mxb4h)
+
+## Makefile
 
 ## Extra
 - [Lab Survey](https://docs.google.com/forms/d/1Wku4LmK3ACVGLzZ0BGNL_q5RQmzxA1D1wGhGH0XKIKo/edit)
