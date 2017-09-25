@@ -1,16 +1,16 @@
 # Week 3 Agenda
 ![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/WhyUseCString.jpg)
 
-## Pointers
+## C-Strings vs C++ string
 
-## 
+## IO
 
 
 ## Worksheet
 [Worksheet]()
 
 ## Extra
-- [Lab Survey](https://docs.google.com/forms/
+- [Lab Survey](https://docs.google.com/forms/d/1Wku4LmK3ACVGLzZ0BGNL_q5RQmzxA1D1wGhGH0XKIKo/edit)
 
 ## Project 2 tips
 - Start early!
