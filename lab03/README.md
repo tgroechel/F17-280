@@ -5,7 +5,8 @@
 - char izard[1] = '\\0'
 - const char * mander = "potato"
 - string cheese = "hat"
-- cheese[0] = 'c';
+- cheese[0] = 'c'
+- cout
 ![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/cat.jpg)
 
 ## IO, argv, and arrrgc
