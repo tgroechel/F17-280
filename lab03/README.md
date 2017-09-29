@@ -10,13 +10,16 @@
 ![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/cat.jpg)
 
 ## IO, argv, and arrrgc
-- example
+example
+
+## Makefile
+example
 
 ## Worksheet
 [Worksheet](https://docs.google.com/document/d/1Un3TljjRZQrG_389X3XDqxY3zRFUPcp1ZDgJuCRTCb0/edit#heading=h.nr154e7mxb4h)
 
-## Makefile
-- example
+## Lab Practice Questions
+[Questions](https://docs.google.com/document/d/1ND69_kdcNXo-7HnASZqh7YzFt2YBxeXQX8JmfBR5b40/edit#heading=h.nr154e7mxb4h)
 
 ## Extra
 - [Lab Survey](https://docs.google.com/forms/d/1Wku4LmK3ACVGLzZ0BGNL_q5RQmzxA1D1wGhGH0XKIKo/edit)
