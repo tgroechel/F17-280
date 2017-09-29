@@ -22,7 +22,7 @@
 - [Lab Survey](https://docs.google.com/forms/d/1Wku4LmK3ACVGLzZ0BGNL_q5RQmzxA1D1wGhGH0XKIKo/edit)
 
 ## Project 2 tips
-- [Slides](https://docs.google.com/presentation/d/1Joy-2qyjFXUfAizmyzRVuhEjNFdTkWVM5LXDEywLYV8/edit#slide=id.g2769dae83a_0_219)
+- [Slides](https://docs.google.com/presentation/d/1Joy-2qyjFXUfAizmyzRVuhEjNFdTkWVM5LXDEywLYV8/edit#slide=id.g275ba625aa_0_47)
 - Double check what height vs width are
 - Initialize all the stuff
 - 2-d array stored as 1-d array
