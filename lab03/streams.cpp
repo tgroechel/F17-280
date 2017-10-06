@@ -35,7 +35,7 @@ int main(int arrrgc, char ** argv){
 
 	ss << "   kjsdkjfsllkslkjf";
 
-	cout << ss << flush;
+	//cout << ss << flush;
 	string junk2;
 	ss >> junk2;
 	cout << junk2 << endl << endl;
