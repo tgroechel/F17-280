@@ -14,8 +14,14 @@ int sum(vector<int>& nums) {
     return sum;
 }
 
+void purpose_segfault(vector<int>& nums){
+	int * ptr = nullptr;
+	cout << *ptr << endl;
+}
+
 int main(int argc, char ** argv) {
 	vector<int> v = {4, 5, 8};
 	cout << sum(v) << endl;
+	purpose_segfault(v);
     return 0;
 }
