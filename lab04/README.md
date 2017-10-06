@@ -13,7 +13,17 @@
 [Worksheet](https://docs.google.com/document/d/1Mvh9ez1Z2qiTVjt6d5vUlI13TjB0xa78NDZPArbIU6Y/edit)
 
 ## gdb
-- example
+- Compile with -g
+- gdb ./program
+- set args ARGUEMENTS
+- run (r)
+- break FILE:LINE# (b)
+- delete BREAKPOINT# (d)
+- continue (c)
+- next (n)
+- step (s)
+- backtrace (bt)
+- help for the helps
 
 ## Practice Question
 
