@@ -24,6 +24,9 @@
 - next (n)
 - step (s)
 - backtrace (bt)
+- info locals
+- print VARIABLE
+- watch VARIABLE
 - help for the helps
 
 ## Practice Question

@@ -7,6 +7,8 @@ allllllll: cppclass
 cppclass: cppclass.cpp
 	${CXX} ${FLAGS} $^ -o $@
 
-
+gdbex: gdb_stuff.cpp
+	${CXX} ${FLAGS} $^ -o $@
+	
 clean:
 	rm -vf cstring stream
