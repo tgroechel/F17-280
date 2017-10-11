@@ -18,6 +18,7 @@
 - gdb ./program
 - set args ARGUEMENTS
 - run (r)
+- start
 - break FILE:LINE# (b)
 - delete BREAKPOINT# (d)
 - continue (c)
