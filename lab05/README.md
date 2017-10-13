@@ -11,7 +11,7 @@
 
 ## Overloading Operators
 ~~~
-bool operator+(const Thing& thing1, const Thing& thing2)
+int operator+(const Thing& thing1, const Thing& thing2)
 ~~~
 # Worksheet
 [Worksheet](https://docs.google.com/document/d/1bZSA6QnkrvmapU5W6RLYKy5dxmFhzGPPyCOE_7XqlO4/edit)
