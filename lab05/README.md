@@ -27,6 +27,7 @@ int operator+(const Thing& thing1, const Thing& thing2)
 - Pack
 - Player
 - Driver
+- Make sure to print out the command line arguements
 
 ## Staff Eval?
 
