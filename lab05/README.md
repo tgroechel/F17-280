@@ -10,7 +10,7 @@
 ## Polymorphism
 
 ## Overloading Operators
-~~~
+~~~cpp
 int operator+(const Thing& thing1, const Thing& thing2)
 ~~~
 # Worksheet
