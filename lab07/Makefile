@@ -1,5 +1,5 @@
 CXX = g++
-FLAGS = -pedantic -Wall -Werror --std=c++11 -g
+FLAGS = -pedantic -Wall --std=c++11 -g
 
 all: dynamic
 	./dynamic
@@ -7,5 +7,8 @@ all: dynamic
 dynamic: dynamic.cpp
 	${CXX} ${FLAGS} $^ -o $@
 
+exam_style: exam_style_dynamic.cpp
+	${CXX} ${FLAGS} $^ -o $@
+
 clean:
-	rm -vf inherpoly
+	rm -vf dynamic exam_style
