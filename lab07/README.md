@@ -8,6 +8,7 @@
 - How do we destroy it?
 - Dangling pointers
 - Draw a diagram for goodness sake
+- delete vs delete[]
 
 ## Templates
 - Template <typename potato>
