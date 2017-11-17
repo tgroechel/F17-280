@@ -1,4 +1,4 @@
-# Week 7 Agenda
+# Week 8 Agenda
 ![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/catbuffer.jpg)
 
 ## Big Three
