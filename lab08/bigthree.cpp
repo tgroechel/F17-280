@@ -16,6 +16,8 @@ class A {
     }
 
 public:
+    static int i;
+
     A() : size(3), arr(new int[size]) {
         for (int i = 0; i < size; ++i) {
             arr[i] = i;
@@ -28,8 +30,8 @@ public:
 
     A& operator=(const A & rhs) {
         if (this != &rhs) {
-        	delete[] arr;
-        	copy_arr(rhs.arr, rhs.size);
+            delete[] arr;
+            copy_arr(rhs.arr, rhs.size);
         }
         return *this;
     }
@@ -40,12 +42,18 @@ public:
 
 };
 
+int A::i = 0;
+
 int main(int argc, char ** argv) {
     A a1;
     A a2(a1);
 
     a1 = a2;
     a2 = a2;
+
+    a1.i++;
+    a2.i++;
+    cout << a1.i << endl;
 
 
     return 0;
