@@ -1,24 +1,21 @@
 # Week 7 Agenda
 ![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/gandalf.jpg)
 
-## Dynamic Memory
+## Big Three
 - Why?
-- Where is it stored?
-- How do we make it?
-- How do we destroy it?
-- Dangling pointers
-- Draw a diagram for goodness sake
-- delete vs delete[]
+- Copy Ctor
+- operator=
+- ~Destructor
 
-## Templates
-- Template <typename potato>
-- What are they good for?
+## Auto
+- type deduction
+- for each loop
 
 ## Worksheet
-[Worksheet](https://docs.google.com/document/d/1118uhiHqGpp_YTmM41Ht_oup2I_ecXjm1-vGljyqQiA/edit#heading=h.nr154e7mxb4h)
+[Worksheet](https://docs.google.com/document/d/18xrAJdpXfzQah-oDj_S3M6bUVsF5Qs6xGkeP529cgIE/edit)
 
 ## Exam Style Question
-[Exam Style Dynamic](https://docs.google.com/document/d/1zWrQ9T8cBRsu4WPcPwwPSo4iqftir54eu-E8B4Pe14c/edit)
+[Exam Style Dynamic](https://docs.google.com/document/d/1BBw-4zw2Pkjh_UhWIFflZMZBn28oGun7Q67SL75IUAo/edit)
 
 ## Work on lab
 
