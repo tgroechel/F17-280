@@ -1,5 +1,5 @@
 # Week 7 Agenda
-![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/gandalf.jpg)
+![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/catbuffer.jpg)
 
 ## Big Three
 - Why?
