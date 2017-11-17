@@ -66,6 +66,9 @@ int main(int argc, char ** argv) {
     print_list(head_2);
     print_list(head_3);
 
+    // Test is reverse_list
+    
+
     // Test is circular
     cout << endl;
     cout << "Start circular tests" << endl;
@@ -76,6 +79,8 @@ int main(int argc, char ** argv) {
     assert(is_circular(circ_head_1));
     assert(is_circular(circ_head_2));
     cout << "PASSED is_circular TESTS" << endl << endl;
+
+
 
 
     return 0;

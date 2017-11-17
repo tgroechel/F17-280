@@ -7,7 +7,8 @@
 - operator=
 - ~Destructor
 
-## Auto
+## Auto and Static
+- static -> single instance
 - type deduction
 - for each loop
 
@@ -20,10 +21,8 @@
 ## Work on lab
 
 ## Project 4 Stuff
-- Doubly linked list - Wed. Lecture and Google
-- Stack
-- RPN calculator (Stack calc)
-- Functor
+- Please draw stuff
+- What can you store a char, int, and double into while reading
 
 
 ## Closing Time
