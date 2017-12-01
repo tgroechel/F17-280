@@ -12,6 +12,9 @@ valgrind: functors
 functors: functors.cpp
 	${CXX} ${FLAGS} $^ -o $@
 
+func_ptrs: func_ptrs.cpp
+	${CXX} ${FLAGS} $^ -o $@
+
 exam_style_list: exam_style_list.cpp
 	${CXX} ${FLAGS} $^ -o $@
 	./exam_style_list
