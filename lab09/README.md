@@ -42,8 +42,8 @@ class A{
 - Why was this important in project 4?
 - Iterator variable for list:
 ```cpp
-template <typname T>
-bool func_empty_w_it(const List<T>& list_in) const{
+template <typename T>
+bool List<T>::func_empty_w_it(const List<T>& list_in) const{
 	typename List<T>::Iterator it = list_in.begin();
 	return it == list_in.end();
 }
