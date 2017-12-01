@@ -25,6 +25,8 @@ int main() {
 ```
 ## Functors
 - Class with overloaded (), that is it.
+- Good for more abstraction = more generalization
+- "Easy Points" on exam as most of it is syntax (like Big Three)
 
 ## Iterators and Friends
 ```cpp
@@ -51,7 +53,7 @@ bool func_empty_w_it(const List<T>& list_in) const{
 [Worksheet](https://docs.google.com/document/d/1R-H_XOJnn3Wnqd4SjiMIgyQFJgBVh1LQF7hBqVjDvbY/edit)
 
 ## Exam Style Question
-[Exam Style Dynamic](https://docs.google.com/document/d/1BBw-4zw2Pkjh_UhWIFflZMZBn28oGun7Q67SL75IUAo/edit)
+[Exam Style Functor](https://docs.google.com/document/d/1n_sjFV9ToZwhcLdwjcmFBsD7F62wIYJ2AL2p7_5eofo/edit)
 
 ## Work on lab
 
