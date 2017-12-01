@@ -17,5 +17,5 @@ int main() {
     cout << varname(&a, b) << endl; // how to use, 5
 
     varname = &sub; // can reassign to same type of signature
-    cout << varname(&a, &b) << endl; // -1
+    cout << varname(&a, b) << endl; // -1
 }
