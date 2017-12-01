@@ -25,6 +25,27 @@ int main() {
 ```
 ## Functors
 
+## Iterators and Friends
+```cpp
+class A{
+	int a_mine;
+	class B{
+		int b_mine;
+		friend class A;
+	};
+};
+```
+- Who can access who?
+- Why was this important in project 4?
+- Iterator variable for list:
+```cpp
+template <typname T>
+bool func_empty_w_it(const List<T>\& list_in){
+	typename List<T>::Iterator it = list_in.begin();
+	return it == list_in.end();
+}
+```
+
 ## Worksheet
 [Worksheet](https://docs.google.com/document/d/1R-H_XOJnn3Wnqd4SjiMIgyQFJgBVh1LQF7hBqVjDvbY/edit)
 
