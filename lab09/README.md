@@ -1,5 +1,5 @@
-# Week 8 Agenda
-![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/catbuffer.jpg)
+# Week 9 Agenda
+![Image](https://github.com/tgroechel/F17-280/blob/master/.other/pictures/opera.gif)
 
 ## Function Pointers
 
