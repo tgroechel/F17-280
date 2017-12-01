@@ -6,7 +6,7 @@
 ## Functors
 
 ## Worksheet
-[Worksheet](https://docs.google.com/document/d/18xrAJdpXfzQah-oDj_S3M6bUVsF5Qs6xGkeP529cgIE/edit)
+[Worksheet](https://docs.google.com/document/d/1R-H_XOJnn3Wnqd4SjiMIgyQFJgBVh1LQF7hBqVjDvbY/edit)
 
 ## Exam Style Question
 [Exam Style Dynamic](https://docs.google.com/document/d/1BBw-4zw2Pkjh_UhWIFflZMZBn28oGun7Q67SL75IUAo/edit)
