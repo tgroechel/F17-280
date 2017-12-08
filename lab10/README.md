@@ -26,7 +26,7 @@ int print_stuff(int num){
 - [Extra Lab Review](https://drive.google.com/drive/u/1/folders/0BwMlZWZnhXI1dG45S0pVc1pRNTA)
 
 ## Lab Eval
-[Lab Eval](https://docs.google.com/forms/d/1_T3fxH45keQrmPpgaHuG_h5CrHqojaXpvXPSG8M6Mlk/edit)
+[Lab Eval](https://docs.google.com/forms/d/e/1FAIpQLSf-KDNaeY0erWLc8KeimDztK4XUZPVkaaHTcmMMV9R87EMXaA/viewform?usp=pp_url&entry.1651480751=Tom+Groechel&entry.42050814&entry.1983630373&entry.571638564)
 
 
 ## Closing Time

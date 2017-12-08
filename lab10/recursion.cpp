@@ -12,9 +12,7 @@ int print_stuff(int num){
 		return 1;
 	}
 	int hold = print_stuff(num - 1);
-
-	cout << hold << endl;
-
+	cout << hold << hold2 << endl;
 	return hold + 1;
 }
 
