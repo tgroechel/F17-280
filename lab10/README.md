@@ -6,6 +6,17 @@
 - When have you done this?
 - Linear, Tail, Tree -> oh my
 - You can store results (don't have to return on same line)
+```cpp
+int print_stuff(int num){
+	cout << num << endl;
+	if(num <= 0){
+		return 1;
+	}
+	int hold = print_stuff(num - 1);
+	cout << hold << endl;
+	return hold + 1;
+}
+```
 
 ## Worksheet
 [Worksheet](https://drive.google.com/drive/u/1/folders/1suoq274Jiab9-Qza9NpLFLkWg3NmEElp)
