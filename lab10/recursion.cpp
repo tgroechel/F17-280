@@ -12,12 +12,22 @@ int print_stuff(int num){
 		return 1;
 	}
 	int hold = print_stuff(num - 1);
-	cout << hold << hold2 << endl;
+	cout << hold << endl;
 	return hold + 1;
 }
 
-int main() {
+struct fs_direntry {
+    char name[59 + 1];         // name of this file or directory
+    uint32_t inode_block;                  // disk block that stores the inode for
+                                           // this file or directory
+};
 
-	cout << print_stuff(3) << endl;
+int main() {
+	for(int i = 0; i < 59; ++i){
+		cout << 'a';
+	}
+	cout << endl;
+
+	cout << (512/sizeof(fs_direntry)) << endl;
 
 }
